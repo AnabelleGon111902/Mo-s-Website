@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link
+    rel="stylesheet"
+    href="myStyles.css">
+    <style>
+      body {background-color: rgb(0,255,255)}
+      h1{color:hotPink;text-align:center;}
+      h2 {text-decoration: overline}
+    </style>
+  </head>
+  <body>
+    <h1><font size="55">Cafe Faves</font></h1>
+    <h2><font size="46">Drinks</font></h2>
+    <a href="https://www.urthcaffe.com/"><img src="match.jpg" alt="Urth Matcha Tea"></a>
+    <a href="https://blacktapnyc.com/"><img src="blacktap.jpg" alt="Black Tap Milkshakes"></a>
+    <a href="https://www.urthcaffe.com/"><img src="why-not-coffee-ny-.jpg" alt="Iced Macchiato"></a>
+    <a href="https://www.starbucks.com/menu?&utm_term=starbucks&gclid=CjwKCAjw4uXaBRAcEiwAuAUz8I6qBO5KyFkkMGA095ArQ8jnAj36zcdnTcNnPzghmT2XW1r3aTuKzBoCvf8QAvD_BwE&cm_mmc=google-_-BR+-+Brand+-+Starbucks+-+Desktop+-+Exact-_-Brand+-+Starbucks+-+Desktop+-+Exact-_-starbucks_mkwid%7CswofCu5MS_dc%7Cpcrid%7C202075197573%7Cpkw%7Cstarbucks%7Cpmt%7Ce&utm_campaign=BR+-+Brand+-+Starbucks+-+Desktop+-+Exact&utm_medium=cpc&utm_source=google"><img src="coffee-jelly-frappuccino.0.0.jpg" alt="Starbucks Frappuccino"></a>
+    <h2><font size="46">Treats</font></h2>
+    <a href="https://www.magnoliabakery.com/"><img src="mangnoliabakery.jpg" alt="Magnolia Bakery"></a>
+    <a href="https://www.magnoliabakery.com/"><img src="magnolia.jpg" alt="Magnolia Bakery"></a>
+    <a href="https://billysbakerynyc.com/?gclid=CjwKCAjw4uXaBRAcEiwAuAUz8B5nQ4VpesK3dYEtToqfuVFeX5Idmki-0FfXw-1PVgBjYYcqsf58XxoCUzkQAvD_BwE"><img src="kevinanda.jpg" alt="Cupcake"></a>
+    <a href="http://www.empirecake.com/"><img src="empirecake.jpg" alt="Empire Cake"></a>
+    <a href="http://www.connecticutweddingcakes.com/"><img src="anaparzychcakes.jpg" alt="Anaparzych Cakes"></a>
+    <a href="http://www.amysbread.com/"><img src="amysbread.jpg" alt="Amys Bread Bakery"></a>
+
+  </body>
+</html>  
